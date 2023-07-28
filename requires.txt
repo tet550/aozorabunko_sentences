@@ -1,0 +1,7 @@
+pip install pip==23.1.2
+
+pip install regex
+pip install mojimoji
+pip install pandas pyarrow
+pip install datasets
+pip install huggingface_hub

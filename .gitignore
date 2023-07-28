@@ -1,0 +1,7 @@
+env/
+logs/
+data/
+data_raw/
+cache/
+*.pth
+.DS_Store
